@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly
+Flask
+google-cloud-storage
+gunicorn
